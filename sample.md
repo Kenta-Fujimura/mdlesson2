@@ -15,9 +15,7 @@ public class Sample{
 
 ```
 
->これは引用です
->
->>引用
+
 
 
 ---
@@ -35,3 +33,10 @@ public class Sample{
 これは __ボールド__ です
 
 ![alt](https://joytas.net/php/man.jpg)
+<img src="https://joytas.net/php/man.jpg" alt="attach:cat" title="attach:cat" width="200" height="200">
+
+| 左揃え | 中央揃え | 右揃え |
+|:---|:---:|---:|
+|1 |2 |3 |
+|4 |5 |6 |
+
